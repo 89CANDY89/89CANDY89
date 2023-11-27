@@ -7,17 +7,6 @@
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/metrics.plugin.isocalendar.svg
 ">](#)
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
-[<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
-
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/89CANDY89)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
-
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
-
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/89CANDY89/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
-
 <sub>These infographics were generated using [89CANDY89/metrics](https://github.com/89CANDY89/metrics)</sub>
 
 <!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
